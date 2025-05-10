@@ -11,7 +11,7 @@
     header { background-color: #2d6a4f; color: white; padding: 20px; text-align: center; }
     nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
     .hero {
-      background: url('https://i.ibb.co/LPsPXnd/travel.jpg') center/cover no-repeat;
+      background: url('https://images.unsplash.com/photo-1518684079-2ca5ec9eb271?auto=format&fit=crop&w=1600&q=60') center/cover no-repeat;
       height: 300px;
       display: flex;
       align-items: center;
@@ -117,17 +117,17 @@
     const packages = [
       {
         title: "Cox's Bazar Tour",
-        image: "https://i.ibb.co/PWjKtvR/cox.jpg",
+        image: "https://images.unsplash.com/photo-1607532941433-522cd002f9f5?auto=format&fit=crop&w=800&q=60",
         description: "3 Days 2 Nights beach package with hotel & meals included.",
       },
       {
         title: "Sajek Valley Adventure",
-        image: "https://i.ibb.co/kxNnZzn/sajek.jpg",
+        image: "https://images.unsplash.com/photo-1695902188434-bd3c9baf39d5?auto=format&fit=crop&w=800&q=60",
         description: "2 Days jungle & hill trip with full local guidance.",
       },
       {
         title: "Sundarban Safari",
-        image: "https://i.ibb.co/Yp60TRs/sundarban.jpg",
+        image: "https://images.unsplash.com/photo-1613327448057-bf6f782a1224?auto=format&fit=crop&w=800&q=60",
         description: "Explore the largest mangrove forest and wildlife safari experience.",
       }
     ];
